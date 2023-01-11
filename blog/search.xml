@@ -5,8 +5,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/CookieJar/2023/01/11/test/"/>
-      <url>/CookieJar/2023/01/11/test/</url>
+      <link href="/blog/2023/01/11/test/"/>
+      <url>/blog/2023/01/11/test/</url>
       
         <content type="html"><![CDATA[<p>这是一篇占位符文章，有实际内容后就会移除</p>]]></content>
       
